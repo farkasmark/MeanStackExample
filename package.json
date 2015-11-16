@@ -1,0 +1,14 @@
+{
+	"name":	"mean-stack-example",
+	"version": "0.1.0",
+	"author": "NEXOGEN Ltd.",
+	"main": "server.js",
+	"dependencies": {
+		"express" :	"latest",
+		"mongoose" : "latest",
+		"morgan": "latest",
+		"body-parser" : "latest",
+		"method-override" : "latest",
+		"path" : "latest"
+	}
+}
